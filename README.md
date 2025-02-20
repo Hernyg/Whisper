@@ -12,6 +12,7 @@ This is a simple GUI application for OpenAI's Whisper model that allows you to t
 ## Installation & Usage
 - Download the latest release from the Releases section.
 - Extract the ZIP file and run the executable.
+- The program needs some time to load so be patient when starting the program
 - Select your MP3 files, choose an output location, and start transcribing!
 
 ## Legal Disclaimer
