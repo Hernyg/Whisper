@@ -3,6 +3,8 @@
 ## Overview
 This is a simple GUI application for OpenAI's Whisper model that allows you to transcribe MP3 files locally on your computer without requiring any internet connection or external dependencies. The application provides an easy-to-use interface for uploading audio files and generating text transcriptions.
 
+![image](https://github.com/user-attachments/assets/cb035915-266d-4774-9a33-e1893bf54bc4)
+
 ## Features
 - Run Whisper Locally No cloud or API usage.
 - Simple GUI No command-line required.
